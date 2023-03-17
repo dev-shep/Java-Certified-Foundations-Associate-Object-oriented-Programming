@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author KSOLIS
+ *
+ */
+module AbstractClassDemo {
+}
